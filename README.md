@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Grinprim
+- 👀 I’m interested in Unity and C#
+- 🌱 I’m currently learning Python
